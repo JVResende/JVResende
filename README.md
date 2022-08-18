@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm João Vitor Resende</h1>
+<h2 align="left">Hi 👋, I'm João Vitor Resende</h2>
 <h3 align="center">A passionate developer from Brazil</h3>
 
 <h3 align="left">Connect with me:</h3>

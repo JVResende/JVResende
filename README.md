@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋, I'm João Vitor Resende</h2>
-<h3 align="center">A passionate developer from Brazil</h3>
+<h4 align="left">A passionate developer from Brazil</h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

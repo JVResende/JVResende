@@ -1,5 +1,5 @@
-<h2 align="center">Hi 👋, I'm João Vitor Resende</h2>
-<p align="center">A passionate developer from Brazil.</p>
+<h2 align="left">Hi 👋, I'm João Vitor Resende</h2>
+<p align="left">A passionate developer from Brazil.</p>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>

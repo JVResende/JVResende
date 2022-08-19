@@ -6,7 +6,7 @@
     <p>- 🌱 I’m currently learning TypeScript. </p>    
   </div>
   <div align="center">
-    <img width="60%" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" />
+    <img src="https://miro.medium.com/max/680/1*zVnWJtyGOX_kUIDm6ccCfQ.gif" />
   </div>
 </div>
 

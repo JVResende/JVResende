@@ -21,8 +21,8 @@
 
 <h2 align="left">GitHub Stats:</h2>
 <div>
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=jvresende&show_icons=true&theme=prussian" alt="jvresende" />
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=prussian" alt="jvresende" />
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=jvresende&show_icons=true&theme=react" alt="jvresende" />
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=react" alt="jvresende" />
 </div>
 
 <h2 align="left">Connect with me:</h2>

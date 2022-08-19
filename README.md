@@ -2,7 +2,7 @@
 <p align="left">A passionate developer from Brazil. </p>
 <p>- 🤝 I'm currently looking for a company to work and share my skills! </p>
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="250"/>
+  <img width="70%" height="250" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" />
 </div>
 
 <h2 align="left">Languages and Tools:</h2>

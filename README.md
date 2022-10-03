@@ -3,7 +3,7 @@
   <div>
     <p align="left">A passionate developer from Brazil. </p>
     <p>- 🤝 I'm looking for a company to work and share my skills! </p>
-    <p>- 🌱 I’m currently learning TypeScript. </p>    
+    <p>- 🌱 I’m currently learning Node.js. </p>    
   </div>
   <div align="center">
     <img src="https://miro.medium.com/max/680/1*zVnWJtyGOX_kUIDm6ccCfQ.gif" />

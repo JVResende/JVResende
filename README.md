@@ -3,7 +3,7 @@
   <div>
     <p align="left">A passionate developer from Brazil. </p>
     <p>- 🤝 I'm looking for a company to work and share my skills! </p>
-    <p>- 🌱 I’m currently learning Node.js. </p>    
+    <p>- 🌱 I’m currently learning TypeScript. </p>    
   </div>
   <div align="center">
     <img src="https://miro.medium.com/max/680/1*zVnWJtyGOX_kUIDm6ccCfQ.gif" />
@@ -16,7 +16,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="50" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="50" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="50" height="40"/>
 </div>
 
 <h2 align="left">GitHub Stats:</h2>

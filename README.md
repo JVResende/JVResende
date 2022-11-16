@@ -3,7 +3,7 @@
   <div>
     <p align="left">A passionate developer from Brazil. </p>
     <p>- 🤝 I'm looking for a company to work and share my skills! </p>
-    <p>- 🌱 I’m currently learning TypeScript. </p>    
+    <p>- 🌱 I’m currently learning MySQL. </p>    
   </div>
   <div align="center">
     <img src="https://miro.medium.com/max/680/1*zVnWJtyGOX_kUIDm6ccCfQ.gif" />
@@ -18,7 +18,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="50" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="40" />
-          
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" width="50" height="40" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" width="50" height="40" />
+  
+           
 </div>
 
 <h2 align="left">GitHub Stats:</h2>
